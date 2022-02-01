@@ -78,19 +78,79 @@ CMakeFiles/Searching_algorithms.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Searching_algorithms.dir/src/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\main.cpp" -o CMakeFiles\Searching_algorithms.dir\src\main.cpp.s
 
+CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.obj: CMakeFiles/Searching_algorithms.dir/flags.make
+CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.obj: ../src/searchingStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Searching_algorithms.dir\src\searchingStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\searchingStrategy.cpp"
+
+CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\searchingStrategy.cpp" > CMakeFiles\Searching_algorithms.dir\src\searchingStrategy.cpp.i
+
+CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\searchingStrategy.cpp" -o CMakeFiles\Searching_algorithms.dir\src\searchingStrategy.cpp.s
+
+CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.obj: CMakeFiles/Searching_algorithms.dir/flags.make
+CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.obj: ../src/linearSearchStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Searching_algorithms.dir\src\linearSearchStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\linearSearchStrategy.cpp"
+
+CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\linearSearchStrategy.cpp" > CMakeFiles\Searching_algorithms.dir\src\linearSearchStrategy.cpp.i
+
+CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\linearSearchStrategy.cpp" -o CMakeFiles\Searching_algorithms.dir\src\linearSearchStrategy.cpp.s
+
+CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.obj: CMakeFiles/Searching_algorithms.dir/flags.make
+CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.obj: ../src/jumpSearchStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Searching_algorithms.dir\src\jumpSearchStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\jumpSearchStrategy.cpp"
+
+CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\jumpSearchStrategy.cpp" > CMakeFiles\Searching_algorithms.dir\src\jumpSearchStrategy.cpp.i
+
+CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\jumpSearchStrategy.cpp" -o CMakeFiles\Searching_algorithms.dir\src\jumpSearchStrategy.cpp.s
+
+CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.obj: CMakeFiles/Searching_algorithms.dir/flags.make
+CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.obj: ../src/interpolationSearchStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Searching_algorithms.dir\src\interpolationSearchStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\interpolationSearchStrategy.cpp"
+
+CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\interpolationSearchStrategy.cpp" > CMakeFiles\Searching_algorithms.dir\src\interpolationSearchStrategy.cpp.i
+
+CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\interpolationSearchStrategy.cpp" -o CMakeFiles\Searching_algorithms.dir\src\interpolationSearchStrategy.cpp.s
+
 # Object files for target Searching_algorithms
 Searching_algorithms_OBJECTS = \
-"CMakeFiles/Searching_algorithms.dir/src/main.cpp.obj"
+"CMakeFiles/Searching_algorithms.dir/src/main.cpp.obj" \
+"CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.obj" \
+"CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.obj" \
+"CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.obj" \
+"CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.obj"
 
 # External object files for target Searching_algorithms
 Searching_algorithms_EXTERNAL_OBJECTS =
 
 Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/src/main.cpp.obj
+Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.obj
+Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.obj
+Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.obj
+Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.obj
 Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/build.make
 Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/linklibs.rsp
 Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/objects1.rsp
 Searching_algorithms.exe: CMakeFiles/Searching_algorithms.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Searching_algorithms.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Searching_algorithms.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Searching_algorithms.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

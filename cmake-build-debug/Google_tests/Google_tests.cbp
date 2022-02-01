@@ -276,6 +276,18 @@
 		<Unit filename="D:/Studenkie Projekty/CPP/Searching_algorithms/Google_tests/searchingTests.h">
 			<Option target="Google_Tests_run"/>
 		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Searching_algorithms/src/interpolationSearchStrategy.cpp">
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Searching_algorithms/src/jumpSearchStrategy.cpp">
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Searching_algorithms/src/linearSearchStrategy.cpp">
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Searching_algorithms/src/searchingStrategy.cpp">
+			<Option target="Google_Tests_run"/>
+		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Searching_algorithms/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

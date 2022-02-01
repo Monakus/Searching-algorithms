@@ -79,14 +79,78 @@ Google_tests/CMakeFiles/Google_Tests_run.dir/searchingTests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/searchingTests.cpp.s"
 	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\Google_tests\searchingTests.cpp" -o CMakeFiles\Google_Tests_run.dir\searchingTests.cpp.s
 
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj: ../src/searchingStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\__\src\searchingStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\searchingStrategy.cpp"
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.i"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\searchingStrategy.cpp" > CMakeFiles\Google_Tests_run.dir\__\src\searchingStrategy.cpp.i
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.s"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\searchingStrategy.cpp" -o CMakeFiles\Google_Tests_run.dir\__\src\searchingStrategy.cpp.s
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj: ../src/linearSearchStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\__\src\linearSearchStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\linearSearchStrategy.cpp"
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.i"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\linearSearchStrategy.cpp" > CMakeFiles\Google_Tests_run.dir\__\src\linearSearchStrategy.cpp.i
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.s"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\linearSearchStrategy.cpp" -o CMakeFiles\Google_Tests_run.dir\__\src\linearSearchStrategy.cpp.s
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj: ../src/jumpSearchStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\__\src\jumpSearchStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\jumpSearchStrategy.cpp"
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.i"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\jumpSearchStrategy.cpp" > CMakeFiles\Google_Tests_run.dir\__\src\jumpSearchStrategy.cpp.i
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.s"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\jumpSearchStrategy.cpp" -o CMakeFiles\Google_Tests_run.dir\__\src\jumpSearchStrategy.cpp.s
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj: ../src/interpolationSearchStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\__\src\interpolationSearchStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Searching_algorithms\src\interpolationSearchStrategy.cpp"
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.i"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Searching_algorithms\src\interpolationSearchStrategy.cpp" > CMakeFiles\Google_Tests_run.dir\__\src\interpolationSearchStrategy.cpp.i
+
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.s"
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Searching_algorithms\src\interpolationSearchStrategy.cpp" -o CMakeFiles\Google_Tests_run.dir\__\src\interpolationSearchStrategy.cpp.s
+
 # Object files for target Google_Tests_run
 Google_Tests_run_OBJECTS = \
-"CMakeFiles/Google_Tests_run.dir/searchingTests.cpp.obj"
+"CMakeFiles/Google_Tests_run.dir/searchingTests.cpp.obj" \
+"CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj" \
+"CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj" \
+"CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj" \
+"CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj"
 
 # External object files for target Google_Tests_run
 Google_Tests_run_EXTERNAL_OBJECTS =
 
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/searchingTests.cpp.obj
+Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj
+Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj
+Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj
+Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/build.make
 Google_tests/Google_Tests_run.exe: lib/libgtest.a
 Google_tests/Google_Tests_run.exe: lib/libgtest_main.a
@@ -94,7 +158,7 @@ Google_tests/Google_Tests_run.exe: lib/libgtest.a
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/linklibs.rsp
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/objects1.rsp
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Google_Tests_run.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Google_Tests_run.exe"
 	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug\Google_tests" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Google_Tests_run.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

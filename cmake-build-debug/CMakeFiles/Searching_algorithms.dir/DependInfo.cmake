@@ -8,7 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/interpolationSearchStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/jumpSearchStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/linearSearchStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.obj"
   "D:/Studenkie Projekty/CPP/Searching_algorithms/src/main.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/CMakeFiles/Searching_algorithms.dir/src/main.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/searchingStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

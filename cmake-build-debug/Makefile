@@ -238,6 +238,78 @@ gtest_main/fast:
 	$(MAKE) $(MAKESILENT) -f Google_tests\lib\googletest\CMakeFiles\gtest_main.dir\build.make Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/build
 .PHONY : gtest_main/fast
 
+src/interpolationSearchStrategy.obj: src/interpolationSearchStrategy.cpp.obj
+.PHONY : src/interpolationSearchStrategy.obj
+
+# target to build an object file
+src/interpolationSearchStrategy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.obj
+.PHONY : src/interpolationSearchStrategy.cpp.obj
+
+src/interpolationSearchStrategy.i: src/interpolationSearchStrategy.cpp.i
+.PHONY : src/interpolationSearchStrategy.i
+
+# target to preprocess a source file
+src/interpolationSearchStrategy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.i
+.PHONY : src/interpolationSearchStrategy.cpp.i
+
+src/interpolationSearchStrategy.s: src/interpolationSearchStrategy.cpp.s
+.PHONY : src/interpolationSearchStrategy.s
+
+# target to generate assembly for a file
+src/interpolationSearchStrategy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/interpolationSearchStrategy.cpp.s
+.PHONY : src/interpolationSearchStrategy.cpp.s
+
+src/jumpSearchStrategy.obj: src/jumpSearchStrategy.cpp.obj
+.PHONY : src/jumpSearchStrategy.obj
+
+# target to build an object file
+src/jumpSearchStrategy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.obj
+.PHONY : src/jumpSearchStrategy.cpp.obj
+
+src/jumpSearchStrategy.i: src/jumpSearchStrategy.cpp.i
+.PHONY : src/jumpSearchStrategy.i
+
+# target to preprocess a source file
+src/jumpSearchStrategy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.i
+.PHONY : src/jumpSearchStrategy.cpp.i
+
+src/jumpSearchStrategy.s: src/jumpSearchStrategy.cpp.s
+.PHONY : src/jumpSearchStrategy.s
+
+# target to generate assembly for a file
+src/jumpSearchStrategy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/jumpSearchStrategy.cpp.s
+.PHONY : src/jumpSearchStrategy.cpp.s
+
+src/linearSearchStrategy.obj: src/linearSearchStrategy.cpp.obj
+.PHONY : src/linearSearchStrategy.obj
+
+# target to build an object file
+src/linearSearchStrategy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.obj
+.PHONY : src/linearSearchStrategy.cpp.obj
+
+src/linearSearchStrategy.i: src/linearSearchStrategy.cpp.i
+.PHONY : src/linearSearchStrategy.i
+
+# target to preprocess a source file
+src/linearSearchStrategy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.i
+.PHONY : src/linearSearchStrategy.cpp.i
+
+src/linearSearchStrategy.s: src/linearSearchStrategy.cpp.s
+.PHONY : src/linearSearchStrategy.s
+
+# target to generate assembly for a file
+src/linearSearchStrategy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/linearSearchStrategy.cpp.s
+.PHONY : src/linearSearchStrategy.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -262,6 +334,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/searchingStrategy.obj: src/searchingStrategy.cpp.obj
+.PHONY : src/searchingStrategy.obj
+
+# target to build an object file
+src/searchingStrategy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.obj
+.PHONY : src/searchingStrategy.cpp.obj
+
+src/searchingStrategy.i: src/searchingStrategy.cpp.i
+.PHONY : src/searchingStrategy.i
+
+# target to preprocess a source file
+src/searchingStrategy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.i
+.PHONY : src/searchingStrategy.cpp.i
+
+src/searchingStrategy.s: src/searchingStrategy.cpp.s
+.PHONY : src/searchingStrategy.s
+
+# target to generate assembly for a file
+src/searchingStrategy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Searching_algorithms.dir\build.make CMakeFiles/Searching_algorithms.dir/src/searchingStrategy.cpp.s
+.PHONY : src/searchingStrategy.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -280,9 +376,21 @@ help:
 	@echo ... gmock_main
 	@echo ... gtest
 	@echo ... gtest_main
+	@echo ... src/interpolationSearchStrategy.obj
+	@echo ... src/interpolationSearchStrategy.i
+	@echo ... src/interpolationSearchStrategy.s
+	@echo ... src/jumpSearchStrategy.obj
+	@echo ... src/jumpSearchStrategy.i
+	@echo ... src/jumpSearchStrategy.s
+	@echo ... src/linearSearchStrategy.obj
+	@echo ... src/linearSearchStrategy.i
+	@echo ... src/linearSearchStrategy.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/searchingStrategy.obj
+	@echo ... src/searchingStrategy.i
+	@echo ... src/searchingStrategy.s
 .PHONY : help
 
 

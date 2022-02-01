@@ -8,6 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/interpolationSearchStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/jumpSearchStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/linearSearchStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Searching_algorithms/src/searchingStrategy.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj"
   "D:/Studenkie Projekty/CPP/Searching_algorithms/Google_tests/searchingTests.cpp" "D:/Studenkie Projekty/CPP/Searching_algorithms/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/searchingTests.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

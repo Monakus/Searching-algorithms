@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/Studenkie Projekty/CPP/Searching_algorithms/src/main.cpp
+D:/Studenkie Projekty/CPP/Searching_algorithms/include/jumpSearchStrategy.h
+../include/searchingStrategy.h
+D:/Studenkie Projekty/CPP/Searching_algorithms/include/searchingStrategy.h
+
+D:/Studenkie Projekty/CPP/Searching_algorithms/include/searchingStrategy.h
+
+D:/Studenkie Projekty/CPP/Searching_algorithms/src/jumpSearchStrategy.cpp
+../include/jumpSearchStrategy.h
+D:/Studenkie Projekty/CPP/Searching_algorithms/include/jumpSearchStrategy.h
+complex
+-
 iostream
 -
 

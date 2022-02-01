@@ -174,6 +174,102 @@ Google_Tests_run/fast:
 	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/build
 .PHONY : Google_Tests_run/fast
 
+__/src/interpolationSearchStrategy.obj: __/src/interpolationSearchStrategy.cpp.obj
+.PHONY : __/src/interpolationSearchStrategy.obj
+
+# target to build an object file
+__/src/interpolationSearchStrategy.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.obj
+.PHONY : __/src/interpolationSearchStrategy.cpp.obj
+
+__/src/interpolationSearchStrategy.i: __/src/interpolationSearchStrategy.cpp.i
+.PHONY : __/src/interpolationSearchStrategy.i
+
+# target to preprocess a source file
+__/src/interpolationSearchStrategy.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.i
+.PHONY : __/src/interpolationSearchStrategy.cpp.i
+
+__/src/interpolationSearchStrategy.s: __/src/interpolationSearchStrategy.cpp.s
+.PHONY : __/src/interpolationSearchStrategy.s
+
+# target to generate assembly for a file
+__/src/interpolationSearchStrategy.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/interpolationSearchStrategy.cpp.s
+.PHONY : __/src/interpolationSearchStrategy.cpp.s
+
+__/src/jumpSearchStrategy.obj: __/src/jumpSearchStrategy.cpp.obj
+.PHONY : __/src/jumpSearchStrategy.obj
+
+# target to build an object file
+__/src/jumpSearchStrategy.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.obj
+.PHONY : __/src/jumpSearchStrategy.cpp.obj
+
+__/src/jumpSearchStrategy.i: __/src/jumpSearchStrategy.cpp.i
+.PHONY : __/src/jumpSearchStrategy.i
+
+# target to preprocess a source file
+__/src/jumpSearchStrategy.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.i
+.PHONY : __/src/jumpSearchStrategy.cpp.i
+
+__/src/jumpSearchStrategy.s: __/src/jumpSearchStrategy.cpp.s
+.PHONY : __/src/jumpSearchStrategy.s
+
+# target to generate assembly for a file
+__/src/jumpSearchStrategy.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/jumpSearchStrategy.cpp.s
+.PHONY : __/src/jumpSearchStrategy.cpp.s
+
+__/src/linearSearchStrategy.obj: __/src/linearSearchStrategy.cpp.obj
+.PHONY : __/src/linearSearchStrategy.obj
+
+# target to build an object file
+__/src/linearSearchStrategy.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.obj
+.PHONY : __/src/linearSearchStrategy.cpp.obj
+
+__/src/linearSearchStrategy.i: __/src/linearSearchStrategy.cpp.i
+.PHONY : __/src/linearSearchStrategy.i
+
+# target to preprocess a source file
+__/src/linearSearchStrategy.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.i
+.PHONY : __/src/linearSearchStrategy.cpp.i
+
+__/src/linearSearchStrategy.s: __/src/linearSearchStrategy.cpp.s
+.PHONY : __/src/linearSearchStrategy.s
+
+# target to generate assembly for a file
+__/src/linearSearchStrategy.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/linearSearchStrategy.cpp.s
+.PHONY : __/src/linearSearchStrategy.cpp.s
+
+__/src/searchingStrategy.obj: __/src/searchingStrategy.cpp.obj
+.PHONY : __/src/searchingStrategy.obj
+
+# target to build an object file
+__/src/searchingStrategy.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.obj
+.PHONY : __/src/searchingStrategy.cpp.obj
+
+__/src/searchingStrategy.i: __/src/searchingStrategy.cpp.i
+.PHONY : __/src/searchingStrategy.i
+
+# target to preprocess a source file
+__/src/searchingStrategy.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.i
+.PHONY : __/src/searchingStrategy.cpp.i
+
+__/src/searchingStrategy.s: __/src/searchingStrategy.cpp.s
+.PHONY : __/src/searchingStrategy.s
+
+# target to generate assembly for a file
+__/src/searchingStrategy.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Searching_algorithms\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/searchingStrategy.cpp.s
+.PHONY : __/src/searchingStrategy.cpp.s
+
 searchingTests.obj: searchingTests.cpp.obj
 .PHONY : searchingTests.obj
 
@@ -211,6 +307,18 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... Google_Tests_run
+	@echo ... __/src/interpolationSearchStrategy.obj
+	@echo ... __/src/interpolationSearchStrategy.i
+	@echo ... __/src/interpolationSearchStrategy.s
+	@echo ... __/src/jumpSearchStrategy.obj
+	@echo ... __/src/jumpSearchStrategy.i
+	@echo ... __/src/jumpSearchStrategy.s
+	@echo ... __/src/linearSearchStrategy.obj
+	@echo ... __/src/linearSearchStrategy.i
+	@echo ... __/src/linearSearchStrategy.s
+	@echo ... __/src/searchingStrategy.obj
+	@echo ... __/src/searchingStrategy.i
+	@echo ... __/src/searchingStrategy.s
 	@echo ... searchingTests.obj
 	@echo ... searchingTests.i
 	@echo ... searchingTests.s
